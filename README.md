@@ -8,3 +8,6 @@ docker-compose up
 
 localhost:9000 - Kafdrop UI endopoint
 Create topic twitter-streaming-topic
+
+## Data
+http://help.sentiment140.com/for-students 
